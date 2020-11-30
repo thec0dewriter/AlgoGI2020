@@ -1,0 +1,10 @@
+
+dist: xenial
+
+addons:
+  sonarcloud:
+    organization: "thec0dewriter-github" # the key of the org you chose at step #3
+
+script:
+  # other script steps might be done before running the actual analysis
+  - sonar-scanner
