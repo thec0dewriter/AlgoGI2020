@@ -1,6 +1,4 @@
-
 dist: xenial
-
 addons:
   sonarcloud:
     organization: "thec0dewriter-github" # the key of the org you chose at step #3
