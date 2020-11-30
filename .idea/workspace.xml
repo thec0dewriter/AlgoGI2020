@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6f4447c-9e69-49d0-aa07-78c9b9b86c5e" name="Default Changelist" comment="Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1kxsDVS0DS6BWKqCZIaVv1t2y17" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6f4447c-9e69-49d0-aa07-78c9b9b86c5e" name="Default Changelist" comment="" />
+      <created>1606653462176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606653462176</updated>
+      <workItem from="1606653463406" duration="8112000" />
+      <workItem from="1606743780125" duration="2124000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1606766392943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606766392943</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1187" y="666" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606743290480">
+      <screen x="0" y="0" width="2994" height="1728" />
+    </state>
+    <state x="1187" y="666" key="#com.intellij.fileTypes.FileTypeChooser/-2446.1387.1268.768/-1080.99.1080.1890/0.0.2994.1728@0.0.2994.1728" timestamp="1606743290480" />
+    <state x="1178" y="600" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606743427048">
+      <screen x="0" y="0" width="2994" height="1728" />
+    </state>
+    <state x="1178" y="600" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-2446.1387.1268.768/-1080.99.1080.1890/0.0.2994.1728@0.0.2994.1728" timestamp="1606743427048" />
+    <state x="-1983" y="1511" key="FileChooserDialogImpl" timestamp="1606656409329">
+      <screen x="-2446" y="1387" width="1268" height="768" />
+    </state>
+    <state x="-1983" y="1511" key="FileChooserDialogImpl/-2446.1387.1268.768/-1080.99.1080.1890/0.0.2994.1728@-2446.1387.1268.768" timestamp="1606656409329" />
+    <state x="1197" y="585" key="RollbackChangesDialog" timestamp="1606766495019">
+      <screen x="0" y="0" width="2994" height="1728" />
+    </state>
+    <state x="1197" y="585" key="RollbackChangesDialog/-2446.1387.1268.768/-1080.99.1080.1890/0.0.2994.1728@0.0.2994.1728" timestamp="1606766495019" />
+    <state x="1090" y="597" key="Vcs.Push.Dialog.v2" timestamp="1606766543594">
+      <screen x="0" y="0" width="2994" height="1728" />
+    </state>
+    <state x="1090" y="597" key="Vcs.Push.Dialog.v2/-2446.1387.1268.768/-1080.99.1080.1890/0.0.2994.1728@0.0.2994.1728" timestamp="1606766543594" />
+    <state x="1249" y="766" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1606766577558">
+      <screen x="0" y="0" width="2994" height="1728" />
+    </state>
+    <state x="1249" y="766" key="git4idea.remote.GitConfigureRemotesDialog/-2446.1387.1268.768/-1080.99.1080.1890/0.0.2994.1728@0.0.2994.1728" timestamp="1606766577558" />
+    <state x="1314" y="759" key="git4idea.ui.GitResetDialog" timestamp="1606766457074">
+      <screen x="0" y="0" width="2994" height="1728" />
+    </state>
+    <state x="1314" y="759" key="git4idea.ui.GitResetDialog/-2446.1387.1268.768/-1080.99.1080.1890/0.0.2994.1728@0.0.2994.1728" timestamp="1606766457074" />
+  </component>
+</project>
